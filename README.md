@@ -164,11 +164,11 @@ flutter test
 
 ## 👨‍🎓 Identitas Mahasiswa
 
-- **Nama:** [Nama Mahasiswa]
-- **NIM:** [Nomor Induk Mahasiswa]
-- **Kelas:** [Kelas]
-- **Program Studi:** [Program Studi]
-- **Perguruan Tinggi:** [Nama Universitas]
+- **Nama:** [Moch.Arieef Rifansyah]
+- **NIM:** [20240040194]
+- **Kelas:** [TI24B]
+- **Program Studi:** [Teknik Informaktika]
+- **Perguruan Tinggi:** [Nusa Putra]
 
 ---
 
