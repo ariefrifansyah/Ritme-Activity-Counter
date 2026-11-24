@@ -1,11 +1,10 @@
 # 🌿 Ritme — Activity Counter
+
 ## 🎬 Video Demonstrasi Aplikasi
 
 Berikut adalah video demonstrasi aplikasi Ritme — Activity Counter.
+[![Tonton Video Ritme](docs/screenshots/01_home.png)](https://github.com/ariefrifansyah/Ritme-Activity-Counter/releases/download/v1.0.0/Demo_Ritme.mp4)
 
-[![Tonton Video Ritme](docs/screenshots/01_home.png)](https://github.com/ariefrifansyah/Ritme-Activity-Counter/releases/tag/v1.0.0)
-
-▶️[![Tonton Video Ritme](docs/screenshots/01_home.png)](https://github.com/ariefrifansyah/Ritme-Activity-Counter/releases/download/v1.0.0/Demo_Ritme.mp4)
 <p align="center">
   <strong>Aplikasi Pencatat Aktivitas Berbasis Flutter dengan Arsitektur MVVM</strong>
 </p>
