@@ -1,0 +1,29 @@
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+.idea/
+.vscode/
+
+# Local SDK paths and user-specific configurations
+android/local.properties
+android/key.properties
+android/.gradle/
+android/captures/
+**/GeneratedPluginRegistrant.java
+
+# macOS / Xcode
+.DS_Store
+*.xcuserstate
+**/xcuserdata/
+**/.symlinks/
+**/Pods/
+
+# Windows
+Thumbs.db
